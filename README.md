@@ -1,4 +1,4 @@
-# 2025_8_F_BE
+# PanelFinder BackEnd
 
 https://github.com/user-attachments/assets/4bf3a125-a012-4d6c-8c82-bc0c87eeaba3
 
